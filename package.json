@@ -1,0 +1,25 @@
+{
+  "name": "e-commerce-shopping-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ramya-V/E-Commerce-Shopping-App.git"
+  },
+  "author": "Ramya Venkatesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ramya-V/E-Commerce-Shopping-App/issues"
+  },
+  "homepage": "https://github.com/Ramya-V/E-Commerce-Shopping-App#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.0"
+  }
+}
